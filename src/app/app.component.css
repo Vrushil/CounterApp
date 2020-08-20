@@ -1,0 +1,25 @@
+
+/* app component container style */
+.container {
+    text-align: center;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    color:rgb(29, 29, 1);
+    margin-top: 30px;
+  }
+  
+  /* button style */
+  button {
+    color: hsla(0, 84%, 17%, 0.959);
+    padding: 5px 25px;
+    margin: 10px;
+    font-size: 19px;
+    text-transform: uppercase;
+    width: 300px;
+    border-radius: 20px;
+    background-color: #b89376;
+  }
+  
